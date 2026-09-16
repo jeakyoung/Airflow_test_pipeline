@@ -17,6 +17,9 @@ venv/
 .env
 *.env.local
 
+# Airflow docker runtime
+config/airflow.cfg
+
 # Docker
 docker/volumes/
 
